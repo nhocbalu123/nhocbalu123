@@ -12,5 +12,6 @@ I am preparing for research-oriented postgraduate study, with particular interes
 * **2.5D Liver Tumour Segmentation** — patient-level CT segmentation with a 2.5D U-Net, out-of-fold evaluation, ensembling, and compute-vs-performance analysis.
 * **Dr.Bee** — production Vietnamese LLM customer-service assistant deployed on Zalo.
 * **Self-Hosted SLM Inference Gateway** — FastAPI/vLLM/Ollama inference stack with reliability and latency evaluation.
+* **Colon Cancer Histology Classification** — patient-disjoint evaluation of CNN variants on histology cell patches, with explicit distinction between dataset-level classification and clinical cancer diagnosis.
 
 Currently seeking opportunities to contribute to healthcare-AI research.

@@ -1,10 +1,12 @@
 # Thang Nguyen Quy Minh (Balu)
 
-Computer Science undergraduate at RMIT University, Melbourne, interested in healthcare AI, trustworthy machine learning, and rigorous model evaluation.
+**AI Engineer & Computer Science undergraduate at RMIT University, Melbourne.**
+
+I build production AI systems and conduct project-based research in medical imaging and rigorous machine-learning evaluation.
+
+My main interests are **healthcare AI, trustworthy machine learning, medical imaging, treatment-response prediction, clinical NLP, and medical question answering**.
 
 I usually go by **Balu** in international and professional settings.
-
-I am preparing for research-oriented postgraduate study, with particular interests in medical imaging, treatment-response prediction, clinical NLP, and medical question answering.
 
 ## Selected work
 
@@ -20,4 +22,4 @@ I am preparing for research-oriented postgraduate study, with particular interes
 
 * **[The Next Analyst Challenge 2025](https://github.com/nhocbalu123/the-next-analyst-challenge-2025)** — Top 20 finalist retail analytics project using Power BI, DAX, and Power Query to analyse 72,744 transactions and identify business growth opportunities.
 
-Currently seeking opportunities to contribute to healthcare-AI research.
+Currently seeking opportunities to contribute to **healthcare-AI research** and build stronger foundations for research-oriented postgraduate study.

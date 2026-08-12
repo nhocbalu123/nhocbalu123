@@ -1,17 +1,16 @@
-## Hi there 👋
-I'm currently learning AI.
+# Thang Nguyen Quy Minh (Balu)
 
-<!--
-**nhocbalu123/nhocbalu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at RMIT University, Melbourne, interested in healthcare AI, trustworthy machine learning, and rigorous model evaluation.
 
-Here are some ideas to get you started:
+I usually go by **Balu** in international and professional settings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am preparing for research-oriented postgraduate study, with particular interests in medical imaging, treatment-response prediction, clinical NLP, and medical question answering.
+
+## Selected work
+
+* **Skin Lesion Segmentation** — controlled 3-seed U-Net vs Attention U-Net study with held-out evaluation, paired bootstrap confidence intervals, subgroup analyses, synthetic perturbation checks, and reproducibility controls.
+* **2.5D Liver Tumour Segmentation** — patient-level CT segmentation with a 2.5D U-Net, out-of-fold evaluation, ensembling, and compute-vs-performance analysis.
+* **Dr.Bee** — production Vietnamese LLM customer-service assistant deployed on Zalo.
+* **Self-Hosted SLM Inference Gateway** — FastAPI/vLLM/Ollama inference stack with reliability and latency evaluation.
+
+Currently seeking opportunities to contribute to healthcare-AI research.
